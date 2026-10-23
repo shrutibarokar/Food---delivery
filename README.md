@@ -202,7 +202,7 @@ This project is currently shared without a formal license declaration. If you pl
 
 ## 👨‍💻 Author
 
-Ambika1794
+Shruti Barokar
 
 ## 📬 Contact
 
